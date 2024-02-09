@@ -60,8 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/nubank-react-native nubankRN
-
+$ git clone https://github.com/Thiagolimabatista/nubank-react-native
 # Go into the repository
 $ cd nubankRN
 
@@ -75,13 +74,7 @@ $ react-native run-ios --simulator="iPhone XS Max"
 $ react-native run-android
 ```
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/nubank-react-native/blob/master/LICENSE) for more information.
-
 ---
-
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
-
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
